@@ -1,6 +1,6 @@
-﻿# Anthropic 风格三代理 Harness（中文模板）
+﻿# Anthropic 风格三代理 Harness
 
-本模板严格参考 Anthropic 文章《Harness design for long-running application development》的核心机制，落地为一个可手工执行、也可后续自动化的三代理协作工作流。
+本模板参考 Anthropic 文章《Harness design for long-running application development》的核心机制，落地为一个可手工执行、也可后续自动化的三代理协作工作流。
 
 核心设计：
 - `Planner`：把简短需求扩展为高层产品规格与分 Sprint 待办
